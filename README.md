@@ -46,13 +46,13 @@ For successful completion of this course, students will require the computer sys
 Recommended Hardware Requirements
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration, deployed in Amazon Web Services (AWS), or DigitalOcean (VPS):
 
-*OS: Ubuntu AMI (https://aws.amazon.com/marketplace/pp/B01JBL2M0O) 
+* OS: Ubuntu AMI (https://aws.amazon.com/marketplace/pp/B01JBL2M0O) 
 
-*Processor: c4.xlarge (4 vCPU)
+* Processor: c4.xlarge (4 vCPU)
 
-*Memory: 8GB RAM
+* Memory: 8GB RAM
 
-*Storage: 20GB 
+* Storage: 20GB 
 
 Software Requirements
 
